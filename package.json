@@ -1,0 +1,21 @@
+{
+  "name": "declanchiu-theme",
+  "displayName": "DeclanChiu Theme",
+  "description": "DeclanChiu 风格样式主题",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DeclanChiu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeclanChiu Theme-color-theme.json"
+      }
+    ]
+  }
+}
