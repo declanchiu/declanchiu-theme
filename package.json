@@ -2,7 +2,9 @@
   "name": "declanchiu-theme",
   "displayName": "DeclanChiu Theme",
   "description": "DeclanChiu 风格样式主题",
+  "repository": "https://github.com/declanchiu/declanchiu-theme.git",
   "version": "0.0.1",
+  "publisher": "DeclanChiu",
   "engines": {
     "vscode": "^1.89.0"
   },
