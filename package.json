@@ -3,7 +3,7 @@
   "displayName": "DeclanChiu Theme",
   "description": "DeclanChiu 风格样式主题",
   "repository": "https://github.com/declanchiu/declanchiu-theme.git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "DeclanChiu",
   "engines": {
     "vscode": "^1.89.0"
